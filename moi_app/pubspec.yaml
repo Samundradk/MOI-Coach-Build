@@ -1,0 +1,40 @@
+name: moi_app
+description: "A premium Manifesting Type Quiz app for Maison of Identity."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Packages
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+
+  # UI Packages
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Assets
+  # Make sure your images are inside the 'assets' folder in your project
+  assets:
+    - assets/musical_soul.png
+    - assets/immersive_soul.png
+    - assets/meditative_soul.png
+    - assets/pampered_soul.png
+    - assets/ignited_soul.png
+    - assets/artist_soul.png
+    - assets/visualizer_soul.png
+    - assets/moi_moi_small_logo.png

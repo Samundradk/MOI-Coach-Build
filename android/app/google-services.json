@@ -1,0 +1,346 @@
+{
+  "project_info": {
+    "project_number": "752646468752",
+    "project_id": "archetypefirebase",
+    "storage_bucket": "archetypefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:ecc35f65d3430ce2435415",
+        "android_client_info": {
+          "package_name": "Aphrodite.Codez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-7186bf39tf92j55l3n5hmvg279fig8ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Aphrodite.Codez",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:9c50e307096db560435415",
+        "android_client_info": {
+          "package_name": "com.branditfactor.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-9mlusbvgombdndrv24gqceuub8o5s7bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.branditfactor.myapp",
+            "certificate_hash": "000a81d27569679a8adccfeb99566afaab8327e4"
+          }
+        },
+        {
+          "client_id": "752646468752-p7cs8294r2in5bm8q419jgpdloib0uvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.branditfactor.myapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:4c1776e285e560c1435415",
+        "android_client_info": {
+          "package_name": "com.culturedlife.branditfactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:2dc5854fec80f135435415",
+        "android_client_info": {
+          "package_name": "com.example.brand_it_factor_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-085op8709d2jbr8q5c6okpd990l8n7bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brand_it_factor_v2",
+            "certificate_hash": "000a81d27569679a8adccfeb99566afaab8327e4"
+          }
+        },
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:e8e12a9b8226463f435415",
+        "android_client_info": {
+          "package_name": "com.example.brand_it_factor_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:851255484f097b9f435415",
+        "android_client_info": {
+          "package_name": "com.hanna.brand_it_factor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:cf3444916fbecf8d435415",
+        "android_client_info": {
+          "package_name": "com.hanna.branditfactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-ka1lu6h2nejakbdueqsd1sd9ebs41a2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanna.branditfactor",
+            "certificate_hash": "e7f836740c9df70d7d08bda9a71888980faadf24"
+          }
+        },
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752646468752:android:ae267ef135fba5e1435415",
+        "android_client_info": {
+          "package_name": "com.mywebsiteaphrodite.start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752646468752-7jjrndmt0hv3th7te4t5qeq2f6am2ht3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mywebsiteaphrodite.start",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk8ANUBPWMy8KzKSNLc1JMSA9obWZjdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752646468752-nd2cjldftf3iehaf4ofm3felcqrqnrch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752646468752-5li8d6ta8j7vfl167ej6a6v7jl2k1lao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandIt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
